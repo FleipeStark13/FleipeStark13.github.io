@@ -352,7 +352,7 @@ html, body {
   display: grid;
   justify-content: center;
   grid-template-columns: repeat(auto-fit, 320px);
-
+  margin-bottom: 2em;
   gap: 1em;
 }
 .cta a {
